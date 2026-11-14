@@ -45,3 +45,6 @@ Installation:
   . Run the "install theme" function on the device and select the .zip file you added.
 
 -"Stock_theme_bak(custom)" is a custom theme I created, based on Stock Theme V2—an update that introduced the blue "res2" theme along with "res3" and "res4" themes. I’ve edited most of the in "res1, 2 and 3" files and added a font similar to the one used in RetroArch’s "rgui" interface. The theme features various menus in Portuguese that incorporate a specific dialect and accent (feel free to ignore this if you aren't interested or don't speak Portuguese)-
+
+
+(versões para instalação via "install theme" serão adicionadas em breve / versions for "install theme" function are going to be added soon)
