@@ -21,6 +21,7 @@ Instalação:
   . basta adicionar a pasta .zip ao diretório ".../Anbernic/themes" (criar um caso não exista).
   . executar função "instalar tema" no dispositivo e selecionar o .zip adicionado
 
+-"Stock_theme_bak(custom)" é um tema personalizado meu, baseado no Stock Theme V2 (atualização que trouxe o tema res2 azul + res3 e res4), em que editei a maior parte dos arquivos em res1, 2 e 3 e adicionei uma fonte similar a da interface "rgui" do retroarch. O arquivo tem diversos menus em português que reproduzem um dialéto e sotaque específico (caso não tenha interesse ou não fale português, ignore)-
 
   
 [ENG]
@@ -42,3 +43,5 @@ Installation:
 - Method 2 ("install theme" function):
   . Simply add the .zip file to the ".../Anbernic/themes" directory (create the folder if it does not exist).
   . Run the "install theme" function on the device and select the .zip file you added.
+
+-"Stock_theme_bak(custom)" is a custom theme I created, based on Stock Theme V2—an update that introduced the blue "res2" theme along with "res3" and "res4" themes. I’ve edited most of the in "res1, 2 and 3" files and added a font similar to the one used in RetroArch’s "rgui" interface. The theme features various menus in Portuguese that incorporate a specific dialect and accent (feel free to ignore this if you aren't interested or don't speak Portuguese)-
